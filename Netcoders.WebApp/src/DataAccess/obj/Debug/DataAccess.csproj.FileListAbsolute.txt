@@ -1,0 +1,49 @@
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula5\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula7 - Copia\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula9\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\filip\OneDrive\Públicos\IncubadoraSegQua\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\valdi\Desktop\aula10\Netcoders.WebApp\src\DataAccess\obj\Debug\DataAccess.pdb
